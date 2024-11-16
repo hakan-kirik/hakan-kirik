@@ -1,32 +1,53 @@
-### Hi there 👋, I'm Hakan Kirik
+<div align="center">
+  <h1>👨‍💻 Hakan Kirik</h1>
+  <h3>Full Stack Developer | Computer Engineering Graduate Student</h3>
+</div>
 
-#### About Me
-I am a graduate of Sakarya University and currently pursuing a master's degree in computer engineering. Alongside my studies, I am actively involved in various significant projects, including a water management application in collaboration with my university.
+<p align="center">
+  <a href="mailto:hakankirik7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/hakan-kirik"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-#### Skills
-- **Frontend:** Angular
-- **Backend:** .NET, EntityFramework
-- **Other Technologies:** Django, Selenium, Linux, Docker
+## 🎓 Education
+- 📚 Master's Student in Computer Engineering
+- 🎓 Bachelor's Degree from Sakarya University
 
-#### Projects
-- **Strategic Planning Project for Municipalities:** Worked on developing a strategic planning program for municipalities to help them set and achieve their goals.
-- **Water Management Application:** Currently working on a water management application as part of my master's program.
-- **Kentrehberi:** This project shows locations on a city map.
+## 💼 Professional Experience
+- 🏢 Strategic Planning Program Development for Municipalities
+- 💧 Water Management Application Development
+- 🗺️ City Guide Project (KentRehberi)
 
-#### Education
-- **Bachelor's Degree:** Sakarya University
-- **Master's Degree:** Currently pursuing a master's degree in computer engineering
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-#### Interests
-- Large city projects
-- Water management systems
-- Continuous learning and development in computer engineering
+## 🚀 Projects
+### Water Management Application
+Developing an advanced water management system as part of my master's research.
 
-#### Contact
-- 📫 How to reach me: hakankirik7@gmail.com
+### Strategic Planning for Municipalities
+Creating comprehensive planning tools to enhance municipal operations and goal tracking.
 
-#### My GitHub Stats
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakan-kirik&show_icons=true&theme=radical)
+### Kentrehberi
+An interactive city mapping project showcasing local points of interest.
 
-#### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-kirik&layout=compact&theme=radical)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hakan-kirik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-kirik&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 🌟 Interests
+- Smart City Solutions
+- Water Resource Management
+- Software Architecture
+- Continuous Learning
