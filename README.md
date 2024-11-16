@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there 👋, I'm Hakan Kirik
 
-<!--
-**hakan-kirik/hakan-kirik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
+I am a graduate of Sakarya University and currently pursuing a master's degree in computer engineering. Alongside my studies, I am actively involved in various significant projects, including a water management application in collaboration with my university.
 
-Here are some ideas to get you started:
+#### Skills
+- **Frontend:** Angular
+- **Backend:** .NET, EntityFramework
+- **Other Technologies:** Django, Selenium, Linux, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+- **Strategic Planning Project for Municipalities:** Worked on developing a strategic planning program for municipalities to help them set and achieve their goals.
+- **Water Management Application:** Currently working on a water management application as part of my master's program.
+- **Kentrehberi:** This project shows locations on a city map.
+
+#### Education
+- **Bachelor's Degree:** Sakarya University
+- **Master's Degree:** Currently pursuing a master's degree in computer engineering
+
+#### Interests
+- Large city projects
+- Water management systems
+- Continuous learning and development in computer engineering
+
+#### Contact
+- 📫 How to reach me: hakankirik7@gmail.com
+
+#### My GitHub Stats
+![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakan-kirik&show_icons=true&theme=radical)
+
+#### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-kirik&layout=compact&theme=radical)
